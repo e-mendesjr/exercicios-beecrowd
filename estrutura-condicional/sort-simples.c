@@ -22,4 +22,6 @@ int main(){
     Meio = (A + B + C - MenorABC - MaiorABC); // fórmula dada por IA
 
     printf("%d\n%d\n%d\n\n%d\n%d\n%d\n", MenorABC, Meio, MaiorABC, A, B, C);
+    
+    return 0;
 }

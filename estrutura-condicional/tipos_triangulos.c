@@ -55,7 +55,7 @@ int main(){
         {
             if(pow(A, 2) > (pow(B, 2) + pow(C, 2)))
             {
-                printf("TRIANGULO OBSUTANGULO\n");
+                printf("TRIANGULO OBTUSANGULO\n");
             }
             else
             {
